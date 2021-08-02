@@ -4,6 +4,6 @@
 
 # Table of Contents
 
-- [Heroku PHP Bot Base](# Heroku PHP Bot Base)
+- [Heroku PHP Bot Base](#Heroku PHP Bot Base)
 - [Installation](#installation)
 - [Support and development](#support-and-development)
