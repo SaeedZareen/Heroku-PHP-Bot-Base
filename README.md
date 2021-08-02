@@ -33,7 +33,6 @@
 if You see "Your app was successfully deployed." Message, Congratulations You Did it ...
 
 8️⃣ Set Your Bot Webhook With This address : "https://api.telegram.org/bot[TOKEN]/setwebhook?url=[DOMAIN]/bot.php"
-
 🔎 Hint » Use Your Token instead of [TOKEN] and Your Site address instead of [DOMAIN]
 
 🤖 Enjoy ...
