@@ -19,7 +19,7 @@
 
 1️⃣ Edit The "bot.php" File in Your Github That Forked From My Repo and Put Your Code in it.
 
-2️⃣ Go To [Heroku Website](https://www.heroku.com/) and Hit the [Sign Up] Button or directly Go To [SignUp Page](https://signup.heroku.com/) and signup with your information.
+2️⃣ Go To https://www.heroku.com and Hit the [Sign Up] Button or directly Go To https://signup.heroku.com and signup with your information.
 
 3️⃣ after Login To Your DashBoard Press The [Create new app] Button and in New Page Enter Your APPNAME and Press [Create App] Button.
 
