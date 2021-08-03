@@ -37,6 +37,8 @@ if You see "Your app was successfully deployed." Message, Congratulations You Di
 
 🤖 Enjoy ...
 ```
+You Can See Your Server info by Using This address : ```site.com/serverinfo```
+also You Can See Your PHP info by Using This address : ```site.com/phpinfo```
 
 # Support and development
 
