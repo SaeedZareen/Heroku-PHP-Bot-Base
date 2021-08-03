@@ -9,7 +9,7 @@ $chat_id = $var['message']['chat']['id'];
 //دریافت پیام ارسال شده توسط کاربر
 $text = $var['message']['text'];
 //تعریف توکن ربات
-$token = "1942161359:AAFyt9qb3TiPzIWTwmvNBx8Z3XkjX0_6Joc";
+$token = "1913045753:AAG_OFrnUdr26PSmqU2bF2e6GEM0bEFQvbk";
 
 
 //این تابع یک پیام ساده ارسال میکند
